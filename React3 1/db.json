@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "gruszczykpatryk@gmail.com",
+      "password": "dasdadad2",
+      "id": 1
+    },
+    {
+      "email": "gruszczykpatryk@gmail.com",
+      "password": "dasdadad2321sada",
+      "id": 2
+    }
+  ]
+}
